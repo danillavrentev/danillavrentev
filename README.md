@@ -4,4 +4,4 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CC44&width=435&lines=Software+engineer" alt="Typing SVG" /></a>
 
-<h2 align="center">My skills: 
+<h2>My skills
