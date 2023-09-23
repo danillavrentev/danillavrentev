@@ -7,7 +7,7 @@
 <h3 align="center">Computer science student, Softwarre Engineer 🇷🇺</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World)](https://git.io/typing-svg)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danillavrentev)](https://github.com/anuraghazra/github-readme-stats)
   
 
 [![danillavrentev/figma-interfaces - GitHub](https://gh-card.dev/repos/danillavrentev/figma-interfaces.svg?fullname=)](https://github.com/danillavrentev/figma-interfaces)
