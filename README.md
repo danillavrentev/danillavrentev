@@ -1,38 +1,29 @@
-<!--
-### - ⚡ Zdarova 👋  
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/teuchezh/count.svg" />
-</p>
-<p align="center">
-<a href="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open">
-    <img src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing" width="512" height="128">
-</a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teuchezh&count_private=true&show_icons=true&theme=buefy" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=farag2&theme=darkhub&no-bg=true&no-frame=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=buefy" />
-</p>
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
+Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
 
-[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teuchezh&count_private=true&show_icons=true&theme=buefy)](https://github.com/danillavrentev)
-[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danillavrentev&layout=compact&theme=buefy)](https://github.com/danillavrentev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=buefy)](https://github.com/danillavrentev)
--->
+[telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
+[telegram-news]: https://t.me/sophianews
+[telegram-group]: https://t.me/sophia_chat
+[telegram-group-badge]: https://img.shields.io/badge/Sophia%20Chat-Telegram-blue?style=flat&logo=Telegram
+  
+[![Yandex](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:nefedovds@ya.ru) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sanctuary_d) [![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
-[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/teuchezh/teuchezh/blob/main/github-metrics.svg">](https://github.com/teuchezh/teuchezh)
+* Open-source enthusiast and maintainer :desktop_computer:
+* Love to help people :electric_plug:
+* I do like automation 🤖
+* I work on [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows), the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub, and its' GUI version, [SophiApp](https://github.com/Sophia-Community/SophiApp) :keyboard: 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/farag2/Sophia-Script-for-Windows)
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/Sophia-Community/SophiApp)
 
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&redirect=true) -->
+![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
+![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white)
 
-<!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing">](https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open) -->
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
