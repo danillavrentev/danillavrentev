@@ -18,6 +18,8 @@ Hi, I am Daniil from Novosibirsk. I'am frontend developer, learning JavaScript/T
 [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/danillavrentev/figma-interfaces)
 [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/danillavrentev/figma-interfaces)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/danillavrentev/github-readme-stats)
+
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white)
