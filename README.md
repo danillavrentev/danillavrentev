@@ -15,7 +15,7 @@ Hi, I am Daniil from Novosibirsk. I'am frontend developer, learning JavaScript/T
 * I do like automation 🤖
 * I work on [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows), the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub, and its' GUI version, [SophiApp](https://github.com/Sophia-Community/SophiApp) :keyboard: 
 
-[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/danillavrentev/figma-interfaces)
+[![danillavrentev/figma-interfaces - GitHub](https://gh-card.dev/repos/danillavrentev/figma-interfaces.svg?fullname=)](https://github.com/danillavrentev/figma-interfaces)
 [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/danillavrentev/figma-interfaces)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/danillavrentev/github-readme-stats)
