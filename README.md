@@ -1,7 +1,7 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Danil</a> 
+<h1 align="center">Hi there, I'm Danil</a> 
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
