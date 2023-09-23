@@ -14,6 +14,6 @@ Hi, I am Daniil from Novosibirsk. I'am frontend developer, learning JavaScript/T
 
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JavaScript] (https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+
 
 
