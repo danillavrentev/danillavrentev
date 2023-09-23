@@ -20,7 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danillavrentev)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danillavrentev)](https://git.io/streak-stats)
 
 [![danillavrentev/figma-interfaces - GitHub](https://gh-card.dev/repos/danillavrentev/figma-interfaces.svg?fullname=)](https://github.com/danillavrentev/figma-interfaces)
 [![danillavrentev/JS-Projects - GitHub](https://gh-card.dev/repos/danillavrentev/JS-Projects.svg?fullname=)](https://github.com/danillavrentev/JS-Projects)
