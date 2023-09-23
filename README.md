@@ -21,9 +21,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h3 align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danillavrentev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</h3>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danillavrentev&theme=dark)](https://git.io/streak-stats)
 
 [![danillavrentev/figma-interfaces - GitHub](https://gh-card.dev/repos/danillavrentev/figma-interfaces.svg?fullname=)](https://github.com/danillavrentev/figma-interfaces)
