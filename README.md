@@ -1,6 +1,6 @@
 
 
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 Hi, I am Daniil from Novosibirsk. I'am frontend developer, learning JavaScript/Typescript. Software engineer
 
