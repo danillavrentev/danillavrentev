@@ -31,5 +31,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danillavrentev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![github-user-contribution](https://github.com/danillavrentev/danillavrentev/assets/116004920/968e1ce8-2117-4be4-8dcd-dcfdea8a8c29)
 
