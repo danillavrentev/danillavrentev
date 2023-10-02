@@ -25,7 +25,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danillavrentev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danillavrentev&theme=dark)](https://git.io/streak-stats)
-[![danillavrentev/figma-interfaces - GitHub](https://gh-card.dev/repos/danillavrentev/figma-interfaces.svg?fullname=)](https://github.com/danillavrentev/figma-interfaces)
+[![danillavrentev/figma-interfaces - GitHub](https://gh-card.dev/repos/danillavrentev/figma-interfaces.svg?fullname=)]([https://github.com/danillavrentev/figma-interfaces](https://github.com/danillavrentev/leetcode-tasks))
 [![danillavrentev/JS-Projects - GitHub](https://gh-card.dev/repos/danillavrentev/JS-Projects.svg?fullname=)](https://github.com/danillavrentev/JS-Projects)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danillavrentev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
